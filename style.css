@@ -109,3 +109,10 @@ button {
 button:hover {
     background-color: #30528a;
 }
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+}
