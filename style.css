@@ -83,3 +83,19 @@ a:hover{
     font-weight: bold;
     font-style: italic;
 }
+.emptyaction{
+    display: flex;
+    justify-content: center; 
+    padding: 20px 0px 
+}.action { 
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+h3{
+    padding-left: 20px;
+}
+.actionp{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    
