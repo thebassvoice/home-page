@@ -76,8 +76,6 @@ a:hover{
     font-style: italic;
 }
 .quote2 {
-    display: flex;
-    justify-content: flex-end;
     font-weight: bold;
     font-style: italic;
 
