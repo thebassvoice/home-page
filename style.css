@@ -77,10 +77,9 @@ a:hover{
 }
 .quote2 {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     font-weight: bold;
     font-style: italic;
-    padding-left: 350px;
 
 }
 .emptyaction {
