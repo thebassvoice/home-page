@@ -78,6 +78,7 @@ a:hover{
 .quote2 {
     font-weight: bold;
     font-style: italic;
+    text-align: end;
 
 }
 .emptyaction {
